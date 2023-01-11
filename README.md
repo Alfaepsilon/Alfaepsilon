@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alfaepsilon
-- 👀 I’m interested in Mathematics, Sytem administration/Security, Automation and DevOps.
+- 👀 I’m interested in Mathematics, System administration/Security, Automation and DevOps.
 - 🌱 I’m currently learning all type of things
 
 <!---
