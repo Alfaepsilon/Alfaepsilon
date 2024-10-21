@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RadioSub
+- 👋 Hi, I’m @Alfaepsilon
 - 👀 I’m interested in Mathematics, System administration/Security, Automation and DevOps.
 - 🌱 I’m currently learning all type of things
 
