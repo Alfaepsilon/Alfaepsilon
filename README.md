@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alfaepsilon
-- 👀 I’m interested in Mathematics, Computer Science, Security & Windowss.
+- 👀 I’m interested in Mathematics, Computer Science, Security & Windows.
 - 🌱 I’m currently learning all type of things
 
 <!---
